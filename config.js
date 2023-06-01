@@ -2,7 +2,7 @@ const config = {
     TOKEN: "xoxc-5322560139798-5341811032305-5329046269667-84dcc5a466aa42d6f962b371b2d3cb3fb2a7564b64b3c2dae62f2ddc37cc8159",
     COOKIE: "xoxd-TXdP97HJRhtE%2BZCz9J8R1qO90meVLB834Jr0FP5XiIjErdEiizqIncAnETiK%2FW77JPv9JYD4FyxYRDdztZxYd0cl6E7XSNoCZz5m47l13zV3u3QGfJUWswlZ6S6hjnOZy62fnxFwTdpyLyENcEIcBpDz6bYFmHOQDLZvDLVUTU8rTyz9qotTMGEH5g%3D%3D",
     TEAM_ID: "neko-q1h9147",
-    CHANNEL: "C05ACRUCPH6",
+    CHANNEL: "C05AVUYNEQH",
     CLAUDE_USER: "U059P1MH459",
 
     MAINPROMPT_LAST: false, // Will try to move the main prompt (main + nsfw prompt from SillyTavern) to the bottom, similar to a jailbreak
